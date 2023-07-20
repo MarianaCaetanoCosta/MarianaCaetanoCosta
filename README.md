@@ -9,4 +9,4 @@
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 
 - 🎓 Análise e Desenvolvimento de Sistemas
-- 🚀 Desenvolvedora I
+- 🚀 Desenvolvedora de Software
