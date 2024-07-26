@@ -9,7 +9,7 @@
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 
 - 🎓 Análise e Desenvolvimento de Sistemas
-- 🚀 Desenvolvedora de Software
+- 🚀 Analista de Sistemas | Desenvolvedor Full Stack | .NET | Angular | Analista de teste | Quality Assurance Tester
 
 
 <p align="justify">
