@@ -10,7 +10,7 @@
 
 - 🎓 Análise e Desenvolvimento de Sistemas
 - 🚀 Analista de Sistemas | Desenvolvedor Full Stack | .NET | Angular
-- Em Migração para Analista de teste | Testador de garantia de qualidade | Engenheiro de controle de qualidade
+- Em Migração para Analista de teste | Quality Assurance Tester | QA Engenner
 
 
 <p align="justify">
