@@ -9,8 +9,9 @@
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 
 - 🎓 Análise e Desenvolvimento de Sistemas
+
 - 🚀 Analista de Sistemas | Desenvolvedor Full Stack | .NET | Angular
-- Em Migração para Analista de teste | Quality Assurance Tester | QA Engenner
+- Analista de teste | Quality Assurance Tester | Futura QA Engenner
 
 
 <p align="justify">
