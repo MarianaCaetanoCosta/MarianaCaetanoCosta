@@ -10,9 +10,7 @@
 
 - 🎓 Análise e Desenvolvimento de Sistemas
 
-- 🚀 Analista de Sistemas | Desenvolvedor Full Stack | .NET | Angular
-- Analista de teste | Quality Assurance Tester | Futura QA Engenner
-
+- 🚀 Quality Assunrance | QA | Analista de teste
 
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
