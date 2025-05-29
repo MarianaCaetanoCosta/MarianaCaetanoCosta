@@ -8,9 +8,12 @@
 
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 
+- 🌈💍Marechal Mariana Caetano
+- 🦋💍Marechal Michele Ribeiro
+
 - 🎓 Análise e Desenvolvimento de Sistemas
 
-- 🚀 Quality Assunrance | QA | Analista de teste
+- 🚀 Quality Assunrance | QA | Analista de teste | Coordenadora de Compliance | Pró-Ética
 
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
