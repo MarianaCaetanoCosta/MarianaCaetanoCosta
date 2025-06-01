@@ -8,8 +8,7 @@
 
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 
-- 🌈💍Marechal Mariana Caetano
-- 🦋💍Marechal Michele Ribeiro
+- 🌈 🦋 Mariana Caetano Costa
 
 - 🎓 Análise e Desenvolvimento de Sistemas
 
