@@ -8,11 +8,9 @@
 
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 
-- 🌈 🦋 Mariana Caetano Costa
-
 - 🎓 Análise e Desenvolvimento de Sistemas
 
-- 🚀 Quality Assunrance | QA | Analista de teste | Coordenadora de Compliance | Pró-Ética
+- 🚀 Quality Assunrance | QA | Analista de teste | Compliance
 
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
