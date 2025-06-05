@@ -10,7 +10,7 @@
 
 - 🎓 Análise e Desenvolvimento de Sistemas
 
-- 🚀 Quality Assunrance | QA | Analista de teste | Compliance
+- 🚀 Quality Assunrance | QA | Analista de teste | Analista de Sistemas | Compliance
 
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
