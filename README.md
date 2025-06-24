@@ -10,8 +10,7 @@
 
 - 🎓 Análise e Desenvolvimento de Sistemas
 
-- 🚀 Quality Assunrance | QA | Analista de teste | Analista de Sistemas | ASTFC
-
+- 🚀 Quality Assunrance | 👩‍💻 Analista de teste | 🧪 Testes Manuais | ✅ Testes Funcionais | ⚙️ Testes Não-Funcionais | 🔍 Testes Exploratórios | 🤖 Testes Automatizados | 🧠 Analista de Sistemas | ASTFC
 ###
 
 Profissional da área de Tecnologia da Informação com mais de 10 anos de experiência, atualmente em transição de carreira para Qualidade de Software. Ao longo da minha trajetória, atuei como Desenvolvedora Full Stack, Analista de Suporte e Coordenadora de Implantação, sempre em busca de soluções eficazes e qualidade no desenvolvimento de sistemas.
