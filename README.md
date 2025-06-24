@@ -42,7 +42,20 @@ Minha transição para a área de Qualidade de Software é motivada pela minha p
 - Scrum, Kanban
 - Cerimônias: Planning, Daily, Review, Retrospective
 
-✅ Testes Automatizados
+🧪 Testes Manuais
+
+✅ Testes Funcionais
+
+⚙️ Testes Não-Funcionais
+
+🔍 Testes Exploratórios
+
+🤖 Testes Automatizados
+- Desktop: TestComplete
+- Web: Selenium, Cypress
+- API: Postman, Cypress, RestAssured
+- Mobile: Appium
+- Performance: JMeter
 - Desktop: TestComplete
 - Web: Selenium, Cypress
 - API: Postman, Cypress, RestAssured
@@ -56,6 +69,8 @@ Minha transição para a área de Qualidade de Software é motivada pela minha p
 - Fundamentos Na Lei Geral De Proteção De Dados (LGPDF)
 - Kanban Essentials Professional Certificate (KEPC)
 - Scrum Foundation Professional Certificate (SFPC)
+
+
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaCaetanoCosta&show_icons=true&count_private=true&theme=radical&hide=issues" />
