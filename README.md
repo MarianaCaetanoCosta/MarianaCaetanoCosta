@@ -10,12 +10,10 @@
 
 - 🎓 Análise e Desenvolvimento de Sistemas
 
-- 🚀 Quality Assunrance | 👩‍💻 Analista de teste | 🧪 Testes Manuais | ✅ Testes Funcionais | ⚙️ Testes Não-Funcionais | 🔍 Testes Exploratórios | 🤖 Testes Automatizados | 🧠 Analista de Sistemas | ASTFC
+- 🚀 Quality Assunrance | 👩‍💻 Analista de teste | 🧠 Analista de Sistemas | Analista de Suporte | ASTFC
 ###
 
-Profissional da área de Tecnologia da Informação com mais de 10 anos de experiência, atualmente em transição de carreira para Qualidade de Software. Ao longo da minha trajetória, atuei como Desenvolvedora Full Stack, Analista de Suporte e Coordenadora de Implantação, sempre em busca de soluções eficazes e qualidade no desenvolvimento de sistemas.
-
-Minha transição para a área de Qualidade de Software é motivada pela minha paixão em assegurar a entrega de produtos robustos e confiáveis.
+Profissional de Tecnologia da Informação com mais de 10 anos de experiência, tendo atuado como Desenvolvedora Full Stack, Analista de Suporte e Analista de Testes Manuais — sempre com foco em eficiência, estabilidade e qualidade das entregas. Atua impulsionada pela convicção de que a excelência na entrega de produtos robustos, funcionais e confiáveis é fundamental para gerar valor real para os usuários e para o negócio.
 
 🛠️ Tecnologias e Ferramentas
 - VB6, VB.NET, .NET, Angular
@@ -44,8 +42,6 @@ Minha transição para a área de Qualidade de Software é motivada pela minha p
 🧪 Testes Manuais
 
 ✅ Testes Funcionais
-
-⚙️ Testes Não-Funcionais
 
 🔍 Testes Exploratórios
 
