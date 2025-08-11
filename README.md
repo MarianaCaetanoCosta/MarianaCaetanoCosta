@@ -10,10 +10,10 @@
 
 - 🎓 Análise e Desenvolvimento de Sistemas
 
-- 🚀 Quality Assunrance | 👩‍💻 Analista de teste | 🧠 Analista de Sistemas | Analista de Suporte | ASTFC
+- QA | Analista de teste | Tester | Sênior Analista de Suporte | ASTFC
 ###
 
-Profissional de Tecnologia da Informação com mais de 10 anos de experiência, tendo atuado como Desenvolvedora Full Stack, Analista de Suporte e Analista de Testes Manuais — sempre com foco em eficiência, estabilidade e qualidade das entregas. Atua impulsionada pela convicção de que a excelência na entrega de produtos robustos, funcionais e confiáveis é fundamental para gerar valor real para os usuários e para o negócio.
+Profissional de Tecnologia da Informação com mais de 10 anos de experiência, tendo atuado como Desenvolvedor Full Stack | .NET | Angular (3 anos) , Sênior Analista de Suporte (7 Anos) e Analista de Testes Manuais (1 ano - Atual)
 
 🛠️ Tecnologias e Ferramentas
 - VB6, VB.NET, .NET, Angular
@@ -21,41 +21,13 @@ Profissional de Tecnologia da Informação com mais de 10 anos de experiência, 
 - Swagger, ElasticSearch, Kibana
 - Software AG Universal Messaging, New Relic, CA Workload Automation
 - SoapUI, Postman, JMeter
-
-💻 Sistemas Operacionais
-- Windows Desktop: XP, 7, 8, 10, 11
-- Windows Server: 2008, 2012, 2016, 2019
-
-💾 Banco de Dados
-- SQL
-
-🔄 Controle de Versão
-- Git, GitLab, Subversion (TortoiseSVN)
-
-📋 Gerenciamento de Projetos
-- Azure DevOps, Jira, Trello
-
-⚙️ Metodologias Ágeis
-- Scrum, Kanban
-- Cerimônias: Planning, Daily, Review, Retrospective
-
-🧪 Testes Manuais
-
-✅ Testes Funcionais
-
-🔍 Testes Exploratórios
-
-🤖 Testes Automatizados
-- Desktop: TestComplete
-- Web: Selenium, Cypress
-- API: Postman, Cypress, RestAssured
-- Mobile: Appium
-- Performance: JMeter
-- Desktop: TestComplete
-- Web: Selenium, Cypress
-- API: Postman, Cypress, RestAssured
-- Mobile: Appium
-- Performance: JMeter
+- Sistemas Operacionais: Windows Desktop: XP a 11 | Windows Server: 2008 a 2019
+- Banco de Dados: SQL
+- Controle de Versão: Git, GitLab, Subversion (TortoiseSVN)
+- Gerenciamento de Projetos: Azure DevOps, Jira, Trello
+- Metodologias Ágeis: Scrum, Kanban, Cerimônias: Planning, Daily, Review, Retrospective
+- Testes: Manuais, Funcionais, Exploratórios
+- Estudos em Testes Automatizados: TestComplete, Selenium, Cypress, Postman, RestAssured, Appium, JMeter
 
 📜 Certificações
 - AICS® - Asociación Internacional de Calidad de Software (ASTFC)
