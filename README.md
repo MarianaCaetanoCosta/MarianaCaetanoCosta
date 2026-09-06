@@ -4,7 +4,11 @@
 
 # 👋 Olá, sou Mariana Caetano
  
-- 🎓 Análise e Desenvolvimento de Sistemas
+Analista de Sistemas, com mais de 15 anos de experiência na área de Tecnologia.
+
+Atuação em Qualidade e Testes de Software e Desenvolvimento Full Stack, no ciclo de desenvolvimento de aplicações, com foco em testes, automação, APIs, banco de dados e validação de soluções.
+
+Experiência na elaboração de cenários, execução e validação de testes funcionais e exploratórios, identificação e acompanhamento de defeitos, testes de APIs e automação, contribuindo para a qualidade e confiabilidade das aplicações.
 
 ## 🛠️ Tecnologias e Ferramentas
 
