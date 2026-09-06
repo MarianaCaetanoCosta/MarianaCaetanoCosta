@@ -63,7 +63,7 @@
 | Projeto                                                                                           | Tecnologia                 | Descrição                                                                                                         |
 | ------------------------------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | [**Lojinha Web**](https://github.com/MarianaCaetanoCosta/JL_LojinhaWebAutomacao)                  | JUnit + Selenium WebDriver | Automação de testes funcionais, validando os fluxos de login, cadastro, edição e exclusão de produtos.            |
-| [**Lojinha API**](https://github.com/MarianaCaetanoCosta/LojinhaWebAutomacao)                     | Postman                    | Automação de testes de API, validando requisições, respostas, códigos HTTP, dados retornados e regras de negócio. |
+| [**Lojinha API**](https://github.com/MarianaCaetanoCosta/JL_LojinhaApiPostman)                     | Postman                    | Automação de testes de API, validando requisições, respostas, códigos HTTP, dados retornados e regras de negócio. |
 | [**Lacrei Saúde**](https://github.com/MarianaCaetanoCosta/LacreiSaude_AutomacaoSeleniumWebDriver) | JUnit + Selenium WebDriver | Automação de testes Web, validando os principais fluxos de cadastro da aplicação.                                 |
 
 
