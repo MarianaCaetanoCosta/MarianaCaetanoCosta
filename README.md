@@ -10,6 +10,11 @@ Atuação em Qualidade e Testes de Software e Desenvolvimento Full Stack, no cic
 
 Experiência na elaboração de cenários, execução e validação de testes funcionais e exploratórios, identificação e acompanhamento de defeitos, testes de APIs e automação, contribuindo para a qualidade e confiabilidade das aplicações.
 
+## FORMAÇÃO ACADÊMICA
+* Especialização em Qualidade e Teste de Software — Júlio de Lima | 2024
+* Tecnólogo em Análise e Desenvolvimento de Sistemas — Centro Universitário Estácio de Sá | 2019
+* Graduação em Sistemas de Informação — não concluída — Pontifícia Universidade Católica de Minas Gerais (PUC Minas) | 2010–2014
+
 ## 🛠️ Tecnologias e Ferramentas
 
 * **Desenvolvimento:** VB6, VB.NET, C#, .NET, .NET Core, Angular
@@ -35,6 +40,7 @@ Experiência na elaboração de cenários, execução e validação de testes fu
 - Kanban Essentials Professional Certificate (KEPC)
 - Scrum Foundation Professional Certificate (SFPC)
 
+----
 ## 🧩 Projetos em destaque
 
 ## 🅰️ Projeto Angular
