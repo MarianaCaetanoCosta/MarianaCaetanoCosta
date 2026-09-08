@@ -4,11 +4,12 @@
 
 # 👋 Olá, sou Mariana Caetano
  
-Analista de Sistemas, com mais de 15 anos de experiência na área de Tecnologia.
+Analista de Sistemas com mais de 15 anos de experiência na área de Tecnologia, com atuação em Qualidade e Testes de Software e Desenvolvimento Full Stack ao longo do ciclo de desenvolvimento de aplicações.
 
-Atuação em Qualidade e Testes de Software e Desenvolvimento Full Stack, no ciclo de desenvolvimento de aplicações, com foco em testes, automação, APIs, banco de dados e validação de soluções.
+Experiência na elaboração de cenários, execução e validação de testes funcionais e exploratórios, identificação e acompanhamento de defeitos, testes de APIs e automação, contribuindo para a qualidade, confiabilidade e evolução das aplicações.
 
-Experiência na elaboração de cenários, execução e validação de testes funcionais e exploratórios, identificação e acompanhamento de defeitos, testes de APIs e automação, contribuindo para a qualidade e confiabilidade das aplicações.
+Perfil analítico e colaborativo, com vivência em equipes multidisciplinares e metodologias ágeis, participando das diferentes etapas do desenvolvimento e entrega de soluções.
+
 
 ## FORMAÇÃO ACADÊMICA
 * Especialização em Qualidade e Teste de Software — Júlio de Lima | 2024
@@ -30,7 +31,7 @@ Experiência na elaboração de cenários, execução e validação de testes fu
 * **Sistemas Operacionais:** Windows Desktop (XP a 11) | Windows Server (2008 a 2019)
 * **Gerenciamento de Projetos:** Azure DevOps, Jira, Trello
 * **Metodologias Ágeis:** Scrum, Kanban
-* **Cerimônias Ágeis:** Planning, Daily, Review, Retrospective
+* **Cerimônias Ágeis:** Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective e Backlog Refinement.
 
 ## 📜 Certificações
 - AICS® - Asociación Internacional de Calidad de Software (ASTFC)
