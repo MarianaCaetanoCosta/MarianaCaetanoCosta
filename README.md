@@ -34,8 +34,8 @@ Perfil analítico e colaborativo, com vivência em equipes multidisciplinares e 
 * **Cerimônias Ágeis:** Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective e Backlog Refinement.
 
 ## 📜 Certificações
-- AICS® - Asociación Internacional de Calidad de Software (ASTFC)
-- Postman API Fundamentals Student Expert 
+- [AICS® - Asociación Internacional de Calidad de Software (ASTFC)](https://badges.parchment.com/public/assertions/hwiD9GgbR_-jOfQVBUFmhg)
+- [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/hwiD9GgbR_-jOfQVBUFmhg?utm_source=url_copy&identity__email=mariana.cae.costa%40gmail.com)
 - Certificação Trabalhador Remoto (RWPC)
 - Fundamentos Na Lei Geral De Proteção De Dados (LGPDF)
 - Kanban Essentials Professional Certificate (KEPC)
@@ -47,7 +47,7 @@ Perfil analítico e colaborativo, com vivência em equipes multidisciplinares e 
 ## 🅰️ Projeto Angular
 | Projeto                                                                                  | Tecnologia   | Descrição                                                                                                              |
 | ---------------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| [**Memoteca**](https://github.com/MarianaCaetanoCosta/JL_LojinhaDesktopAutomacao)        |   Angular    |  Uma aplicação que salva pensamentos e citações                                                                        |
+| [**Memoteca**](https://github.com/MarianaCaetanoCosta/Alr_memoteca)                      |   Angular    |  Uma aplicação que salva pensamentos e citações                                                                        |
 
 ## ⚡ Projeto Api
 | Projeto                                                                                  | Tecnologia   | Descrição                                                                                                              |
