@@ -26,7 +26,7 @@ Perfil analítico e colaborativo, com vivência em equipes multidisciplinares e 
 * **Testes de Performance:** JMeter
 * **Monitoramento e Logs:** ElasticSearch, Kibana, New Relic
 * **Mensageria e Integração:** Software AG Universal Messaging, CA Workload Automation
-* **Banco de Dados:** MySQL, SQL Server, SQLite, PostgreSQL, DBeaver
+* **Banco de Dados:** MySQL, SQL Server, SQLite, PostgreSQL
 * **Controle de Versão:** Git, GitLab, Subversion (TortoiseSVN)
 * **Sistemas Operacionais:** Windows Desktop (XP a 11) | Windows Server (2008 a 2019)
 * **Gerenciamento de Projetos:** Azure DevOps, Jira, Trello
