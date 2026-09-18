@@ -18,20 +18,78 @@ Perfil analítico e colaborativo, com vivência em equipes multidisciplinares e 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Desenvolvimento:** VB6, VB.NET, C#, .NET, .NET Core, Angular
-* **Frameworks e Arquitetura:** Entity Framework, AutoMapper, Injeção de Dependência
-* **APIs e Web Services:** Postman, Swagger, SoapUI
-* **Testes de Software:** Testes Manuais, Funcionais, Exploratórios, Caixa Preta, Operacionais e Retestes
-* **Testes Automatizados:** Appium, Cypress, RestAssured, Selenium, TestComplete
-* **Testes de Performance:** JMeter
-* **Monitoramento e Logs:** ElasticSearch, Kibana, New Relic
-* **Mensageria e Integração:** Software AG Universal Messaging, CA Workload Automation
-* **Banco de Dados:** MySQL, SQL Server, SQLite, PostgreSQL
-* **Controle de Versão:** Git, GitLab, Subversion (TortoiseSVN)
-* **Sistemas Operacionais:** Windows Desktop (XP a 11) | Windows Server (2008 a 2019)
-* **Gerenciamento de Projetos:** Azure DevOps, Jira, Trello
-* **Metodologias Ágeis:** Scrum, Kanban
-* **Cerimônias Ágeis:** Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective e Backlog Refinement.
+### 💻 Desenvolvimento
+![VB6](https://img.shields.io/badge/VB6-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🏗️ Frameworks e Arquitetura
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![AutoMapper](https://img.shields.io/badge/AutoMapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🔌 APIs e Serviços Web
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge&logo=soap&logoColor=white)
+
+### 🧪 Testes de Software
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2C3E50?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-2C3E50?style=for-the-badge)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-2C3E50?style=for-the-badge)
+![Black Box Testing](https://img.shields.io/badge/Black%20Box%20Testing-2C3E50?style=for-the-badge)
+![Operational Testing](https://img.shields.io/badge/Operational%20Testing-2C3E50?style=for-the-badge)
+![Retesting](https://img.shields.io/badge/Retesting-2C3E50?style=for-the-badge)
+
+### 🤖 Testes Automatizados
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![RestAssured](https://img.shields.io/badge/Rest%20Assured-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestComplete](https://img.shields.io/badge/TestComplete-00A98F?style=for-the-badge)
+
+### ⚡ Testes de Desempenho
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+### 📊 Monitoramento e Logs
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
+
+### 📨 Mensageria e Integração
+![Software AG](https://img.shields.io/badge/Software%20AG-FF0000?style=for-the-badge)
+![CA Workload Automation](https://img.shields.io/badge/CA%20Workload%20Automation-0066CC?style=for-the-badge)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔀 Controle de Versão
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Subversion](https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+
+### 🖥️ Sistemas Operacionais
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 📋 Gerenciamento de Projetos
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+### 🔄 Metodologias Ágeis
+
+`Scrum` `Kanban`
+
+### 📅 Cerimônias Ágeis
+
+`Sprint Planning` `Daily Scrum` `Sprint Review` `Sprint Retrospective` `Backlog Refinement`
+
 
 ## 📜 Certificações
 - [AICS® - Asociación Internacional de Calidad de Software (ASTFC)](https://badges.parchment.com/public/assertions/hwiD9GgbR_-jOfQVBUFmhg)
