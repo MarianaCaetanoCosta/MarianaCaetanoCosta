@@ -4,102 +4,48 @@
 
 # 👋 Olá, sou Mariana Caetano
  
-Analista de Sistemas com mais de 15 anos de experiência na área de Tecnologia, com atuação em Qualidade e Testes de Software e Desenvolvimento Full Stack ao longo do ciclo de desenvolvimento de aplicações.
+Analista de Sistemas com mais de 15 anos de trajetória em Tecnologia da Informação, com experiência em Qualidade e Testes de Software, Desenvolvimento Full Stack e Suporte a Sistemas. Minha atuação combina conhecimentos de QA com experiência técnica em desenvolvimento, proporcionando uma visão ampla do ciclo de desenvolvimento de software e da qualidade das aplicações.
+  
+Possuo experiência no planejamento, elaboração, execução e documentação de testes, incluindo testes manuais, funcionais, exploratórios, caixa-preta, operacionais e retestes. Atuo também com testes de APIs, automação e performance, além da elaboração e gerenciamento de casos de teste, identificação, documentação e acompanhamento de bugs e análise de requisitos.
+  
+Minha experiência como desenvolvedora Full Stack complementa minha atuação em QA, com conhecimentos em programação, APIs e Web Services, bancos de dados, versionamento, monitoramento e análise de aplicações. Tenho vivência em equipes multidisciplinares e ambientes ágeis, utilizando Scrum e Kanban e colaborando com diferentes áreas durante o desenvolvimento e entrega de software.
 
-Experiência na elaboração de cenários, execução e validação de testes funcionais e exploratórios, identificação e acompanhamento de defeitos, testes de APIs e automação, contribuindo para a qualidade, confiabilidade e evolução das aplicações.
-
-Perfil analítico e colaborativo, com vivência em equipes multidisciplinares e metodologias ágeis, participando das diferentes etapas do desenvolvimento e entrega de soluções.
-
+## RESUMO PROFISSIONAL
+Sou profissional de Tecnologia da Informação com sólida trajetória em Qualidade de Software, desenvolvimento e suporte a sistemas, direcionando minha carreira para atuação como Analista de Quality Assurance (QA). Possuo experiência com planejamento e execução de testes manuais, funcionais, exploratórios, caixa-preta, APIs, performance e automação, além da elaboração de casos de teste, documentação e acompanhamento de bugs. Minha experiência anterior como desenvolvedora .NET complementa minha atuação em qualidade, proporcionando conhecimentos em programação, bancos de dados, APIs, versionamento e metodologias ágeis.
 
 ## FORMAÇÃO ACADÊMICA
-* Especialização em Qualidade e Teste de Software — Júlio de Lima | 2024
-* Tecnólogo em Análise e Desenvolvimento de Sistemas — Centro Universitário Estácio de Sá | 2019
-* Graduação em Sistemas de Informação — não concluída — Pontifícia Universidade Católica de Minas Gerais (PUC Minas) | 2010–2014
+* Especialização em Qualidade e Teste de Software | Júlio de Lima | 2024
+* Tecnólogo em Análise e Desenvolvimento de Sistemas | Centro Universitário Estácio de Sá | 2019
+* Graduação em Sistemas de Informação | PUC Minas | 2010 - 2014 | Incompleto
+ 
+## CURSOS
+* Certificação Credenciada de Fundamentos de Teste de Software (AICS® ASTFC) | AICS | 2024
+* Postman API Fundamentals Student Expert | Postman | 2024
+* Mentoria em Teste de Software 2.0 | Hotmart | 2026
+* Bootcamp QA Turbo | QAzando | 2025
+* Cypress – Fernando Papito | Keep Testing School | 2024
+* Selenium e Java com Visual Studio Code | Keep Testing School | 2024
+* Quality Assurance: Plano de Testes e Gestão de Bugs | Alura | 2022
 
-## 🛠️ Tecnologias e Ferramentas
+## COMPETÊNCIAS E HABILIDADES
+* Testes de Software: Testes Manuais, Funcionais, Exploratórios, Caixa Preta, Operacionais e Retestes;
+* Automação de Testes: Cypress, Selenium, Appium, RestAssured e TestComplete;
+* APIs e Web Services: Postman, SoapUI e Swagger;
+* Testes de Performance: JMeter;
+* Gestão de Testes e Projetos: Azure DevOps, Jira e Trello;
+* Banco de Dados: MySQL, SQL Server, PostgreSQL e SQLite;
+* Ferramentas de Banco de Dados: DBeaver;
+* Monitoramento e Logs: Elasticsearch, Kibana e New Relic;
+* Versionamento: Git, GitLab e Subversion (TortoiseSVN);
+* Metodologias Ágeis: Scrum e Kanban;
+* Desenvolvimento: C#, .NET, .NET Core, VB.NET, VB6 e Angular;
+* Frameworks e Arquitetura: Entity Framework, AutoMapper e Injeção de Dependência;
+* Mensageria e Integração: Software AG Universal Messaging e CA Workload Automation;
+* Sistemas Operacionais: Windows Desktop (XP a 11) e Windows Server (2008 a 2019).
 
-### 💻 Desenvolvimento
-![VB6](https://img.shields.io/badge/VB6-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### 🏗️ Frameworks e Arquitetura
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![AutoMapper](https://img.shields.io/badge/AutoMapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🔌 APIs e Serviços Web
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge&logo=soap&logoColor=white)
-
-### 🧪 Testes de Software
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2C3E50?style=for-the-badge)
-![Functional Testing](https://img.shields.io/badge/Functional%20Testing-2C3E50?style=for-the-badge)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-2C3E50?style=for-the-badge)
-![Black Box Testing](https://img.shields.io/badge/Black%20Box%20Testing-2C3E50?style=for-the-badge)
-![Operational Testing](https://img.shields.io/badge/Operational%20Testing-2C3E50?style=for-the-badge)
-![Retesting](https://img.shields.io/badge/Retesting-2C3E50?style=for-the-badge)
-
-### 🤖 Testes Automatizados
-![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![RestAssured](https://img.shields.io/badge/Rest%20Assured-25A162?style=for-the-badge&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestComplete](https://img.shields.io/badge/TestComplete-00A98F?style=for-the-badge)
-
-### ⚡ Testes de Desempenho
-![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-
-### 📊 Monitoramento e Logs
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
-
-### 📨 Mensageria e Integração
-![Software AG](https://img.shields.io/badge/Software%20AG-FF0000?style=for-the-badge)
-![CA Workload Automation](https://img.shields.io/badge/CA%20Workload%20Automation-0066CC?style=for-the-badge)
-
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔀 Controle de Versão
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Subversion](https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
-
-### 🖥️ Sistemas Operacionais
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 📋 Gerenciamento de Projetos
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-### 🔄 Metodologias Ágeis
-
-`Scrum` `Kanban`
-
-### 📅 Cerimônias Ágeis
-
-`Sprint Planning` `Daily Scrum` `Sprint Review` `Sprint Retrospective` `Backlog Refinement`
+---
 
 
-## 📜 Certificações
-- [AICS® - Asociación Internacional de Calidad de Software (ASTFC)](https://badges.parchment.com/public/assertions/hwiD9GgbR_-jOfQVBUFmhg)
-- [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/hwiD9GgbR_-jOfQVBUFmhg?utm_source=url_copy&identity__email=mariana.cae.costa%40gmail.com)
-- Certificação Trabalhador Remoto (RWPC)
-- Fundamentos Na Lei Geral De Proteção De Dados (LGPDF)
-- Kanban Essentials Professional Certificate (KEPC)
-- Scrum Foundation Professional Certificate (SFPC)
-
-----
 ## 🧩 Projetos em destaque
 
 ## 🅰️ Projeto Angular
