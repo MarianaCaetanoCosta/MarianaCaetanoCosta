@@ -36,22 +36,24 @@ Atuação como **Analista de Qualidade de Software / QA**, com foco em qualidade
 - **🏗️ Arquitetura e Frameworks:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="18" height="18" alt="Entity Framework Core"> Entity Framework · AutoMapper · Injeção de Dependência
 - **🔄 Metodologias:** Scrum · Kanban
 
-## 🎓 Formação acadêmica
+## 🎓 Formação e Qualificações
+
+### 🎓 Formação Acadêmica
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas** | Centro Universitário Estácio de Sá | 2019
 - **Graduação em Sistemas de Informação** | PUC Minas | 2010–2014 | Incompleto
 
-## 🏅 Certificações
+### 🏅 Certificações
 
 - **Certificação Credenciada de Fundamentos de Teste de Software (AICS® ASTFC)** | AICS | 2024
 - **Postman API Fundamentals Student Expert Certification** | Postman | 2024
 
-## 🎓 Formação e Mentorias
+### 🚀 Formação e Mentorias
 
 - **Mentoria em Teste de Software 2.0** | Júlio de Lima | set.–dez. 2026 | **Em andamento**
 - **Mentoria em Teste de Software 1.0** | Júlio de Lima | 2024
 
-## 📚 Cursos Complementares
+### 📚 Cursos Complementares
 
 - **Bootcamp QA Turbo** | QAzando | 2025
 - **Cypress – Fernando Papito** | Keep Testing School | 2024
