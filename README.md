@@ -44,7 +44,6 @@ Atuação como **Analista de Qualidade de Software / QA**, com foco em qualidade
 
 ## 🎓 Formação acadêmica
 
-- **Especialização em Qualidade e Teste de Software** | Júlio de Lima | 2024
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas** | Centro Universitário Estácio de Sá | 2019
 - **Graduação em Sistemas de Informação** | PUC Minas | 2010–2014 | Incompleto
 
@@ -63,34 +62,17 @@ Atuação como **Analista de Qualidade de Software / QA**, com foco em qualidade
 
 # 🚀 Portfólio de QA
 
-Meu portfólio principal está consolidado em um único projeto, estruturado em módulos que representam diferentes práticas, ferramentas e níveis de teste.
-
 ### 🧪 QA Automação de Testes — E-commerce
 
-**Projeto principal:** automação e validação de uma aplicação de e-commerce, reunindo diferentes abordagens de qualidade em uma estrutura organizada e evolutiva.
+Projeto principal do meu portfólio de QA, reunindo práticas de testes e automação em um único repositório.
 
-**Principais áreas trabalhadas:**
-
-- 🧩 Testes funcionais e manuais
-- 🌐 Testes Web
-- 🔌 Testes de API
-- 📱 Testes Mobile
-- 📊 Testes de Performance
-- 🖥️ Testes Desktop
-- 🤖 Automação de testes
-- 🥒 BDD com Cucumber e Gherkin
-- ☕ Java, Selenium e JUnit 5
-- 🔄 Integração com Maven e organização de projetos de teste
-
-Cada módulo possui **README próprio, estrutura de execução, cenários, tecnologias utilizadas e documentação**, permitindo acompanhar a evolução técnica do portfólio.
+**Tecnologias:** Java, Selenium, JUnit 5, Cucumber, Cypress, Appium, Postman, JMeter, Maven e Git.
 
 <p align="left">
   <a href="https://github.com/MarianaCaetanoCosta/QA-Automacao-de-Testes-E-commerce">
     <img src="https://img.shields.io/badge/📂%20Acessar%20portfólio-QA%20Automação%20de%20Testes%20E--commerce-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar portfólio QA Automação de Testes E-commerce">
   </a>
 </p>
-
-> **Observação:** novos projetos independentes serão adicionados posteriormente, após a revisão e evolução do portfólio principal.
 
 ---
 
