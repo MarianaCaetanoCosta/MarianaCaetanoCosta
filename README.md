@@ -41,9 +41,10 @@ Atuação como **Analista de Qualidade de Software / QA**, com foco em qualidade
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas** | Centro Universitário Estácio de Sá | 2019
 - **Graduação em Sistemas de Informação** | PUC Minas | 2010–2014 | Incompleto
 
-## 🏅 Certificação
+## 🏅 Certificações
 
 - **Certificação Credenciada de Fundamentos de Teste de Software (AICS® ASTFC)** | AICS | 2024
+- **Postman API Fundamentals Student Expert Certification** | Postman | 2024
 
 ## 🎓 Formação e Mentorias
 
@@ -53,7 +54,6 @@ Atuação como **Analista de Qualidade de Software / QA**, com foco em qualidade
 ## 📚 Cursos Complementares
 
 - **Bootcamp QA Turbo** | QAzando | 2025
-- **Postman API Fundamentals Student Expert** | Postman | 2024
 - **Cypress – Fernando Papito** | Keep Testing School | 2024
 - **Selenium e Java** | Keep Testing School | 2024
 - **Quality Assurance: Plano de Testes e Gestão de Bugs** | Alura | 2022
