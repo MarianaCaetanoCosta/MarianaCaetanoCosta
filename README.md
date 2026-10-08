@@ -79,8 +79,8 @@ Projeto principal do meu portfólio de QA, reunindo práticas de testes e automa
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarianaCaetanoCosta&show_icons=true&count_private=true&theme=transparent&hide_border=true&locale=pt-br&hide=issues" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaCaetanoCosta&layout=compact&theme=transparent&hide_border=true&locale=pt-br&langs_count=6" height="180" alt="Principais linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarianaCaetanoCosta&show_icons=true&count_private=true&theme=radical&hide=issues" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaCaetanoCosta&layout=compact&theme=radical" height="180" alt="Principais linguagens" />
 </p>
 
 <p align="center">
