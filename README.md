@@ -22,25 +22,19 @@ Atuação como **Analista de Qualidade de Software / QA**, com foco em qualidade
 
 ## 🧪 Principais competências
 
-- **Testes de Software:** manuais, funcionais, exploratórios, caixa-preta, operacionais e retestes
-- **Automação de Testes:** Selenium, Cucumber, JUnit, Cypress, Appium, RestAssured e TestComplete
-- **Testes de API:** Postman, RestAssured, SoapUI e Swagger
-- **Testes de Performance:** Apache JMeter
-- **Gestão de Testes e Bugs:** Azure DevOps, Jira e Trello
-- **Banco de Dados:** SQL Server, MySQL, PostgreSQL e SQLite
-- **Monitoramento e Logs:** Elasticsearch, Kibana e New Relic
-- **Versionamento:** Git, GitLab e Subversion
-- **Metodologias:** Scrum e Kanban
-- **Desenvolvimento:** C#, .NET, .NET Core, VB.NET, VB6 e Angular
-- **Arquitetura e Frameworks:** Entity Framework, AutoMapper e Injeção de Dependência
-
-## 🛠️ Ferramentas e tecnologias
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,selenium,cucumber,junit,cypress,appium,postman,jmeter,git,github,maven,vscode,idea,cs,dotnet,angular,js,mysql,postgres,sqlite" />
-</p>
-
----
+- **🔍 Testes de Software:** testes manuais · funcionais · exploratórios · caixa-preta · operacionais · retestes
+- **🌐 Automação Web:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="18" height="18" alt="Selenium"> Selenium · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-original.svg" width="18" height="18" alt="Cucumber"> Cucumber · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="18" height="18" alt="JUnit"> JUnit · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="18" height="18" alt="Cypress"> Cypress
+- **📱 Automação Mobile:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appium/appium-original.svg" width="18" height="18" alt="Appium"> Appium · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="18" height="18" alt="JUnit"> JUnit
+- **🔌 Automação de API:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="18" height="18" alt="Postman"> Postman · RestAssured · SoapUI · Swagger
+- **🖥️ Automação Desktop:** TestComplete
+- **📊 Testes de Performance:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachejmeter/apachejmeter-original.svg" width="18" height="18" alt="Apache JMeter"> Apache JMeter
+- **🗄️ Banco de Dados:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="18" height="18" alt="SQL Server"> SQL Server · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="18" height="18" alt="MySQL"> MySQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="18" height="18" alt="PostgreSQL"> PostgreSQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="18" height="18" alt="SQLite"> SQLite · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="18" height="18" alt="DBeaver"> DBeaver
+- **📈 Análise, Monitoramento e Logs:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="18" height="18" alt="Elasticsearch"> Elasticsearch · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" width="18" height="18" alt="Kibana"> Kibana · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/newrelic/newrelic-original.svg" width="18" height="18" alt="New Relic"> New Relic
+- **🐙 Versionamento e Repositórios:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="18" height="18" alt="Git"> Git · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="18" height="18" alt="GitHub"> GitHub · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="18" height="18" alt="GitLab"> GitLab · Subversion
+- **📋 Gestão de Testes e Bugs:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="18" height="18" alt="Azure DevOps"> Azure DevOps · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="18" height="18" alt="Jira"> Jira · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="18" height="18" alt="Trello"> Trello
+- **💻 Desenvolvimento:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="18" height="18" alt="Java"> Java · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="18" height="18" alt="C#"> C# · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="18" height="18" alt=".NET"> .NET · .NET Core · VB.NET · VB6 · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="18" height="18" alt="JavaScript"> JavaScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="18" height="18" alt="Angular"> Angular
+- **🏗️ Arquitetura e Frameworks:** Entity Framework · AutoMapper · Injeção de Dependência
+- **🔄 Metodologias:** Scrum · Kanban
 
 ## 🎓 Formação acadêmica
 
