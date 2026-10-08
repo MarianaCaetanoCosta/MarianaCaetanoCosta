@@ -49,14 +49,14 @@ Atuação como **Analista de Qualidade de Software / QA**, com foco em qualidade
 
 ## 📚 Cursos e formações complementares
 
+- **Mentoria em Teste de Software 2.0** | Júlio de Lima | set.–dez. 2026 | **Em andamento**
+- **Bootcamp QA Turbo** | QAzando | 2025
 - **Mentoria em Teste de Software** | Júlio de Lima | 2024
 - **Certificação Credenciada de Fundamentos de Teste de Software (AICS® ASTFC)** | AICS | 2024
 - **Postman API Fundamentals Student Expert** | Postman | 2024
 - **Cypress – Fernando Papito** | Keep Testing School | 2024
 - **Selenium e Java** | Keep Testing School | 2024
-- **Bootcamp QA Turbo** | QAzando | 2025
 - **Quality Assurance: Plano de Testes e Gestão de Bugs** | Alura | 2022
-- **Mentoria em Teste de Software 2.0** | Júlio de Lima | set.–dez. 2026 | **Em andamento**
 
 ---
 
