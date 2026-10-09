@@ -82,7 +82,7 @@ Projeto principal do meu portfólio de QA, reunindo práticas de testes e automa
 
 Projeto de automação de testes de interface com **Java, Selenium WebDriver, Selenide, JUnit 5 e Maven**. Inclui cenários de cadastro de ponto de doação, validação de e-mail e verificação do slogan, além de relatório HTML consolidado do Surefire.
 
-[📂 Acessar o projeto Petlov](https://github.com/MarianaCaetanoCosta/Petlov_1)
+[📂 Acessar o projeto Petlov](https://github.com/MarianaCaetanoCosta/Petlov-Automacao-de-Testes)
 
 ---
 
