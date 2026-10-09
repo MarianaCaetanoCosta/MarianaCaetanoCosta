@@ -85,7 +85,7 @@ Projeto de automação de testes web, com cenários de validação da interface 
 **Tecnologias:** Java, Selenium WebDriver, Selenide, JUnit 5, Maven e Git.
 
 <p align="left">
-  <a href="https://github.com/MarianaCaetanoCosta/Petlov_1">
+  <a href="https://github.com/MarianaCaetanoCosta/QA-Automacao-de-Testes-Petlov">
     <img src="https://img.shields.io/badge/📂%20Acessar%20projeto-QA%20Automação%20de%20Testes%20Petlov-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar projeto QA Automação de Testes Petlov">
   </a>
 </p>
